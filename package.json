@@ -1,7 +1,7 @@
 {
-  "name": "hook",
-  "version": "0.1.0",
-  "private": true,
+  "name": "MoviePoster",
+  "version": "1.0.2",
+  "author": "Oleksandr Starostenko <edelmutic@gmail.com>"
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
